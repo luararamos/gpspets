@@ -1,1 +1,1 @@
-# http://gpspets.com
+# gpspets
